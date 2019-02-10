@@ -1,6 +1,6 @@
 # testing-calculations-with-qunit
 
-## By: Brianne Bender, Robert Becthold, Michael Baumli, and Alexander Gittemeier
+## By: Brianne Bender, Robert Becthold, Michael Baumli, and Alex Gittemeier
 
 ### What is QUnit?
 QUnit is a strong, easy to use unit-testing framework for JavaScript.
