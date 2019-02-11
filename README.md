@@ -6,8 +6,9 @@
 
 - [Source](https://github.com/Brianneb1/testing-calculations-with-qunit)
 - [Published Site](https://Brianneb1.github.io/testing-calculations-with-qunit)
+- Examples of unit testing
   - [Basic QUnit Example](https://brianneb1.github.io/testing-calculations-with-qunit/basic-example.html)
-  - [Unit testing the `square_area()` function](https://brianneb1.github.io/testing-calculations-with-qunit/two-file-example.html)
+  - [Unit testing a `square_area()` function](https://brianneb1.github.io/testing-calculations-with-qunit/two-file-example.html)
 
 ### What is QUnit?
 QUnit is a strong, easy to use unit-testing framework for JavaScript.
